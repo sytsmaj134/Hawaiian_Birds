@@ -1,0 +1,5 @@
+"species","mean_pi","mean_heterozygosity","mean_roh_mb","mean_F","Ne_estimate","species_common","trend_slope"
+"Chlorodrepanis virens",0.0025,0.0026,5,0.05,5000,"Hawaiʻi ʻamakihi",-0.01
+"Corvus hawaiiensis",8e-04,9e-04,25,0.25,300,"ʻAlalā",-0.08
+"Puffinus nativitatis",0.003,0.0032,3,0.03,8000,"Christmas shearwater",0
+"Pseudonestor xanthophrys",0.0012,0.0013,15,0.15,800,"Maui parrotbill",-0.05
