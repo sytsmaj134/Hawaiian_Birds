@@ -1,0 +1,19 @@
+# Hawaiian Birds Genomics Practice Analysis
+
+This repository contains R code for analyzing simulated genomic diversity data for Hawaiian birds. The workflow calculates species-level diversity metrics, tests differences among species, visualizes genomic structure, and creates a composite genomic risk index.
+
+## Data
+
+The practice dataset contains individual-level genomic metrics for four Hawaiian bird species:
+
+- Hawaiʻi ʻamakihi (*Chlorodrepanis virens*)
+- ʻAlalā (*Corvus hawaiiensis*)
+- Maui parrotbill (*Pseudonestor xanthophrys*)
+- Christmas shearwater (*Puffinus nativitatis*)
+
+Metrics include nucleotide diversity, heterozygosity, runs of homozygosity, inbreeding coefficient, PCA coordinates, and site frequency spectrum values.
+
+## Run analysis
+
+```r
+source("analysis/genomics_analysis.R")
